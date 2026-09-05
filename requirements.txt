@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+pillow
+gpiozero
+adafruit-circuitpython-servokit
+onnxruntime
