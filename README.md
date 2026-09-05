@@ -7,6 +7,7 @@ Everything runs offline on ~$150 of hardware — compared to $3,000+ smart fridg
 
 <!-- 👇 REPLACE with your demo GIF/video. A short clip of "press deploy → arm scans → recipe appears" is the single most valuable thing in this README. -->
 <!-- ![demo](media/demo.gif) -->
+Watch the full video: https://youtu.be/iBZBi5uDBYY
 
 ---
 
